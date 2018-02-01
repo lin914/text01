@@ -25,6 +25,8 @@
             NSLog(@"fetchResult:%@", fetchResult);
         }
     }];
+    
+    NSLog(@"1111111111");
 }
 
 - (void)didReceiveMemoryWarning {
