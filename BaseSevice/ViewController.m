@@ -27,12 +27,9 @@
     }];
     
     NSLog(@"1111111111");
-<<<<<<< HEAD
-    NSLog(@"5555555555");
-=======
+    NSLog(@"666666666");
     NSLog(@"2222222222");
     NSLog(@"444444");
->>>>>>> master
 }
 
 - (void)didReceiveMemoryWarning {
